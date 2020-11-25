@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordStrength</string>
+    <string name="weak">PasswordWeak</string>
+    <string name="medium">PasswordMedium</string>
+    <string name="strong">PasswordStrong</string>
+
+</resources>
